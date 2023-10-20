@@ -1,4 +1,4 @@
-<img src="Assets/AKAM__Logo.png" alt="AKAM Logo" title="AKAM Logo" style=" display: block; margin: 2.5rem auto;">
+
  <h1>Interduction</h1>
  <p>This project was developed for an SMART-BASKET that gets on very well with artificial intelligence. </p>
  <p>in this project the front-end of this software was developed by ME.</p>
